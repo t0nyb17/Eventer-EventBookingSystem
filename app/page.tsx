@@ -30,7 +30,7 @@ export default function Page() {
       <footer className="border-t border-border">
         <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-6 font-mono text-xs uppercase tracking-wide text-muted-foreground">
           <span>Eventer</span>
-          <span>Built with Next.js + MongoDB</span>
+          <span>Built with Next.js + MongoDB by tnmybngr github:t0nyb17</span>
         </div>
       </footer>
     </div>
